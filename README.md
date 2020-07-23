@@ -7,6 +7,8 @@
 
 [DEMO](https://svelte.dev/repl/9dfb73bfa9b34aeea4740fa23f5cde8a)
 
+> **WARNING:** This is a legacy version of svelte-typewriter, and won't receive updates anymore, if you want to use the latest supported version, go to the [master](https://github.com/henriquehbr/svelte-typewriter) branch
+
 ## Installation
 
 ```bash
